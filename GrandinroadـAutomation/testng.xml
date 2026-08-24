@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Grandinroad Test Suite">
+
+    <test name="Grandinroad Login Test">
+
+        <classes>
+
+            <class name="tests.GrandinroadLoginTest"/>
+
+        </classes>
+
+    </test>
+
+</suite>
